@@ -1,0 +1,27 @@
+li{
+	
+	padding-right: 35px;
+}
+.icon{
+	padding-right: 5px;
+	margin-top: 0px;
+}
+.nav{
+	margin: 20px;
+}
+.pcs{
+	transition: all 1s;	
+	justify-content: center;
+	padding: 45px;
+    width: 34%;
+    height: 34%;
+    border: 1px;
+    margin-top: 8rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pcs:hover{transform: scale(1.2);}
+
+.fotos{
+    margin-left: 20%;
+}
